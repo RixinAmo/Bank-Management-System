@@ -180,8 +180,8 @@ mysqlcppconn.lib
 
 After successful compilation:
 
-```cmd
-main.exe
+```powershell
+.\main.exe
 ```
 
 ---
